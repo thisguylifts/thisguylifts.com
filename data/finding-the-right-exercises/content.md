@@ -10,4 +10,4 @@ I found this video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O6Y3WDY1tUo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-I hope you've enjoyed this article and I would love to hear your feedback in the comments. You can get in touch with me via [email](mailto:thisguylifts.com@outlook.com) too.
+Do you have any tips or questions? Feel free to [get in touch](mailto:thisguylifts.com@outlook.com).
