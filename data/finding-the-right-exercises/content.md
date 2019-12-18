@@ -2,7 +2,7 @@
 
 It's easy to join a gym. The real obstacle is finding the right exercises for you.
 
-## Exercise to avoid
+## Exercises to avoid
 
 One of the ways to tackle this challenge is to look at what exercises you should _avoid_.
 
