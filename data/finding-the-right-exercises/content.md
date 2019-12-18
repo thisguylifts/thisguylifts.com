@@ -2,9 +2,9 @@
 
 It's easy to join a gym. The real obstacle is finding the right exercises for you.
 
-One of the ways to tackle this challenge is to look at what exercises you should _avoid_.
+## Exercise to avoid
 
-I found this video:
+One of the ways to tackle this challenge is to look at what exercises you should _avoid_.
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O6Y3WDY1tUo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
